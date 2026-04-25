@@ -118,5 +118,5 @@ This project reflects the analytical challenges encountered in financial audit r
 
 ## Author
 
-**Malavika Sudheer** · Data Analyst · MSc Data Science, University of Essex  
+**Malavika Sudheer** · Data Analyst 
 [linkedin.com/in/malavika-sudheer24](https://linkedin.com/in/malavika-sudheer24)
